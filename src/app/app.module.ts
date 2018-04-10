@@ -10,7 +10,7 @@ import {MessagesComponent} from './messages/messages.component';
 import {MessageService} from './message.service';
 import {AppRoutingModule} from './app-routing.module';
 import {DashboardComponent} from './dashboard/dashboard.component';
-import {HttpClientInMemoryWebApiModule, InMemoryWebApiModule} from 'angular-in-memory-web-api';
+import {HttpClientInMemoryWebApiModule} from 'angular-in-memory-web-api';
 
 import {HeroSearchComponent} from './hero-search/hero-search.component';
 import {InMemoryDataService} from './in-memory-data.service';
